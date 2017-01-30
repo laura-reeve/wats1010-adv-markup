@@ -24,6 +24,10 @@ nav ul li {
   border-radius: 10px;
 }
 
+nav a:hover{
+  color:whitesmoke;
+}
+
 a.active {
   font-weight: bold;
 }
@@ -37,6 +41,10 @@ a.active {
   padding: 10px;
   border: 2px solid rgb(168,75,28);
   border-radius: 10px;
+}
+
+aside ul li {
+  display: inline;
 }
 
 /*FOOTER*/
